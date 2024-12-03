@@ -1,16 +1,14 @@
-# yes_no_app
+Simple Chat with Automatic Responses
 
-A new Flutter project.
+This is a simple chat application built with Flutter. The app allows users to send messages and always responds automatically with "Yes" or "No." It's a basic project ideal for learning and practicing Flutter.
+Features
 
-## Getting Started
+    Simple and minimalist interface.
+    Predefined automatic responses: "Yes" or "No."
+    Easy-to-understand and customizable code.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![yesnoapp1](https://github.com/user-attachments/assets/f67c27df-8cc0-4b70-93be-e244d8ef3847)
+![yesnoapp2](https://github.com/user-attachments/assets/216801d0-da86-4b18-9b8d-42b59cf0b3a3)
+![yesnoapp3](https://github.com/user-attachments/assets/cc3c0d74-6eee-462f-90ab-f2f2c32546a2)

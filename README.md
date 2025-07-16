@@ -1,7 +1,6 @@
 Simple Chat with Automatic Responses
 
-This is a simple chat application built with Flutter. The app allows users to send messages and always responds automatically with "Yes" or "No." It's a basic project ideal for learning and practicing Flutter.
-Features
+This is a simple chat application built with Flutter. The app allows users to send messages and always responds automatically with "Yes" or "No." It's a basic project.
 
     Simple and minimalist interface.
     Predefined automatic responses: "Yes" or "No."
